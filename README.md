@@ -9,7 +9,7 @@
 
 A **Precision Servo Motor Control System** using Raspberry Pi Pico and MicroPython with PWM signals for accurate angle positioning from 0° to 180°. Perfect for robotics, automation, and mechatronics projects requiring precise motor control.
 
-![Raspberry Pi Pico Servo Control](https://circuitdigest.com/sites/default/files/projectimage_mic/Raspberry-Pi-Pico-Servo-Motor-Control.jpg)
+![Raspberry Pi Pico Servo Control](https://circuitdigest.com/sites/default/files/projectimage_mic/Control-Servo-Motor-using-Raspberry-Pi-Pico.jpg)
 
 🚀 Features
 -----------
